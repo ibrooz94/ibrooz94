@@ -5,7 +5,9 @@
 - 🌍  I'm based in Lagos, Nigeria
 - ✉️  You can contact me at [ariori.ibrahim@outlook.com](mailto:ariori.ibrahim@outlook.com)
 - 🧠  I'm learning FastAPI, Astro + Qwik
-- 🤝  I'm open to collaborating on intersting projects### Skills
+- 🤝  I'm open to collaborating on intersting projects
+
+### Skills
 
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img
